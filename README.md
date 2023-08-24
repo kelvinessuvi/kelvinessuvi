@@ -19,7 +19,8 @@
       <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   </div>
 </div>
-# Contatos:
+
+<h3># Contatos:</h3>
 
 <div>
 <a href="https://www.linkedin.com/in/kelvinessuvi" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
